@@ -1,0 +1,13 @@
+[package]
+name = "graphx"
+version = "0.0.1"
+license = "Apache-2.0"
+description = "A graph theory library for rust."
+authors = ["Li Hao <oahillihao@outlook.com>"]
+edition = "2018"
+homepage = "https://github.com/zcarto/graphx"
+repository = "https://github.com/zcarto/graphx"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+[dependencies]
